@@ -1,4 +1,4 @@
-* {
+/* * {
     margin:0;
     padding:0;
     box-sizing: border-box;
@@ -10,4 +10,12 @@ img {
 
 img:hover {
     transform: scale(1.5);
+} */
+
+select,
+input[type="text"] {
+  border: 1px solid #555;
+  width: 100px;
+  padding: 6px 4px;
+  margin-bottom: 10px;
 }
